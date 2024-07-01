@@ -27,5 +27,5 @@ U_NP,              U_NP,              U_NA,              U_NA,              U_NA
 #define MIRYOKU_LAYER_SYM \
 U_NA,              &kp LPAR,          &kp RPAR,          U_NA,              &kp HASH,          &kp AMPS,          U_NA,              &kp LBRC,          &kp RBRC,          &kp DQT,           \
 &kp PRCNT,         &kp STAR,          &kp EXCL,          &kp EQUAL,         &kp PLUS,          &kp PIPE,          &kp COLON,         &kp CARET,         &kp DLLR,          &kp SEMI,          \
-&kp BSLH,          &kp LBKT,          &kp RBKT,          &kp AT,            &kp GRAVE,         &kp TILDE,         &kp SLASH,         &kp LT,            &kp RT,            &kp QMARK,         \
+&kp BSLH,          &kp LBKT,          &kp RBKT,          &kp AT,            &kp GRAVE,         &kp TILDE,         &kp SLASH,         &kp LT,            &kp GT,            &kp QMARK,         \
 U_NP,              U_NP,              &kp UNDER,         &kp SPACE,         &kp MINUS,         U_NA,              U_NA,              U_NA,              U_NP,              U_NP
