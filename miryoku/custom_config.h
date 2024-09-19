@@ -1,5 +1,6 @@
-#define MIRYOKU_CLIPBOARD_MAC
+#define MIRYOKU_ALPHAS_QWERTY
 #define MIRYOKU_NAV_VI
+#define MIRYOKU_CLIPBOARD_MAC
 
 // remove mouse layer
 #define MIRYOKU_LAYER_LIST \
